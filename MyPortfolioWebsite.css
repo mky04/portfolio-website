@@ -1,0 +1,477 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  box-sizing:border-box;
+}
+
+#HPH{                                      /* Homepage CSS */
+    text-align: center;
+    max-width: 100%;
+    margin: auto;
+}
+
+h1 {                                       /* Homepage CSS */
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', serif;
+    font-weight: 800;
+    position: relative;
+    display: inline;
+    top: 4rem;
+}
+
+#HPANI {                               /* Homepage CSS */
+  position: fixed;
+  left: 0;
+  margin: auto;
+  bottom: 2.5rem;
+  max-width: 100%;
+}
+
+#ContactTitle {                            /* Homepage CSS */
+    color: black;
+    margin: 0 0 0 25px;
+    font-size: 20px;
+    font-family: 'Courier New', serif;
+    position: relative;
+    padding: 10px 25px 10px 25px;
+    top: 1rem;
+    border-style: solid;
+
+}
+
+#AnimationTitle {                       /* Homepage CSS */
+    color: black;
+    margin: 0 0 0 50px;
+    font-size: 25px;
+    font-family: 'Courier New', serif;
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    top: 19rem;
+    left: 125px;
+    border-style: solid;
+
+}
+
+#DesignTitle {                           /* Homepage CSS */
+    color: black;
+    margin: 0 0 0 250px;
+    font-size: 25px;
+    font-family: 'Courier New', serif;
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    top: 19rem;
+    left: 125px;
+    border-style: solid;
+
+}
+
+#LiveActionandVFXTitle {                         /* Homepage CSS */
+        color: black;
+    margin: 0 0 0 250px;
+    font-size: 25px;
+    font-family: 'Courier New', serif;
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    top: 19rem;
+    left: 100px;
+    border-style: solid;
+}
+
+a {
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+  
+  h1 {                                       /* Homepage CSS */
+    position: fixed;
+    display: inline;
+    top: 8rem;
+    left: 25%;
+    right: 25%;
+  }
+
+  #HPANI {                               /* Homepage CSS */
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  bottom: 2.5rem;
+  max-width: 100%;
+  max-height: 100%;
+  }
+
+  #ContactTitle {                            /* Homepage CSS */
+    color: black;
+    margin: 0;
+    font-size: 15px;
+    position: fixed;
+    padding: 5px 20px 5px 20px;
+    top: 1rem;
+    right: 5rem;
+}
+
+#AnimationTitle {                       /* Homepage CSS */
+    margin: 0 25% 0 25%;
+    font-size: 20px;
+    position: relative;
+    padding: 15px 45px 15px 45px;
+    top: 19rem;
+    left: 0%;
+
+}
+
+#DesignTitle {                           /* Homepage CSS */
+    margin: 0 30% 0 30%;
+    font-size: 20px;
+    position: relative;
+    padding: 15px 45px 15px 45px;
+    top: 25.5rem;
+    left: 0%;
+
+}
+
+#LiveActionandVFXTitle {                         /* Homepage CSS */
+    margin: 0 0% 0 0%;
+    font-size: 20px;
+    position: relative;
+    padding: 15px 45px 15px 45px;
+    top: 32rem;
+    left: 0%;
+}
+
+  a {
+    text-decoration: none;
+    text-align: center;
+    max-width: 100%;
+    margin-left: auto; 
+    margin-right: auto;
+  }
+
+
+}
+
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+   
+  h1 {                                       /* Homepage CSS */
+    position: fixed;
+    display: inline;
+    top: 8rem;
+    left: 25%;
+    right: 25%;
+  }
+
+  #HPANI {                               /* Homepage CSS */
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  bottom: 5rem;
+  max-width: 100%;
+  max-height: 100%;
+  }
+
+  #ContactTitle {                            /* Homepage CSS */
+    color: black;
+    margin: 0;
+    font-size: 15px;
+    position: fixed;
+    padding: 5px 20px 5px 20px;
+    top: 1rem;
+    right: 5rem;
+}
+
+#AnimationTitle {                       /* Homepage CSS */
+    margin: 0 45% 0 45%;
+    font-size: 20px;
+    position: relative;
+    padding: 15px 45px 15px 45px;
+    top: 19rem;
+    left: 0%;
+
+}
+
+#DesignTitle {                           /* Homepage CSS */
+    margin: 0 42% 0 45%;
+    font-size: 20px;
+    position: relative;
+    padding: 15px 45px 15px 45px;
+    top: 25.5rem;
+    left: 0%;
+
+}
+
+#LiveActionandVFXTitle {                         /* Homepage CSS */
+    margin: 0 10% 0 25%;
+    font-size: 20px;
+    position: relative;
+    padding: 15px 45px 15px 45px;
+    top: 32rem;
+    left: 0%;
+}
+
+  a {
+    text-decoration: none;
+    text-align: center;
+    max-width: 100%;
+    margin-left: auto; 
+    margin-right: auto;
+  }
+
+}
+
+
+@media only screen and (min-width: 769px) and (max-width: 1600px) {
+
+   
+  h1 {                                       /* Homepage CSS */
+    position: fixed;
+    display: inline;
+    top: 8rem;
+    left: 25%;
+    right: 25%;
+  }
+
+  #HPANI {                               /* Homepage CSS */
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  bottom: 5rem;
+  max-width: 100%;
+  max-height: 100%;
+  }
+
+  #ContactTitle {                            /* Homepage CSS */
+    color: black;
+    margin: 0;
+    font-size: 15px;
+    position: fixed;
+    padding: 5px 20px 5px 20px;
+    top: 1rem;
+    right: 5rem;
+}
+
+#AnimationTitle {                       /* Homepage CSS */
+    margin: 0 45% 0 45%;
+    font-size: 20px;
+    position: relative;
+    padding: 15px 45px 15px 45px;
+    top: 19rem;
+    left: 0%;
+
+}
+
+#DesignTitle {                           /* Homepage CSS */
+    margin: 0 42% 0 45%;
+    font-size: 20px;
+    position: relative;
+    padding: 15px 45px 15px 45px;
+    top: 25.5rem;
+    left: 0%;
+
+}
+
+#LiveActionandVFXTitle {                         /* Homepage CSS */
+    margin: 0 10% 0 25%;
+    font-size: 20px;
+    position: relative;
+    padding: 15px 45px 15px 45px;
+    top: 32rem;
+    left: 0%;
+}
+
+  a {
+    text-decoration: none;
+    text-align: center;
+    max-width: 100%;
+    margin-left: auto; 
+    margin-right: auto;
+  }
+
+}
+
+.portfoliovid {
+    display: block;
+    margin: auto;
+    padding: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#BackButton {
+    color: black;
+    margin: 0 0;
+    font-size: 25px;
+    font-family: 'Courier New', serif;
+    display: inline;
+    position: relative;
+    left: -30%;
+    top: 2rem;
+}
+
+
+#CPN {
+    text-align: center;
+    position: relative;
+    left: 0%;
+    top: 8rem;
+    font-size: 25px;
+    font-family: 'Courier New', serif;
+
+}
+
+#CPE {
+    text-align: center;
+    position: relative;
+    left: 0%;
+    top: 10rem;
+    font-size: 25px;
+    font-family: 'Courier New', serif;
+}
+
+#CPTA {
+    text-align: center;
+    position: relative;
+    left: 0%;
+    top: 12rem;
+    font-size: 25px;
+    font-family: 'Courier New', serif;
+}
+
+#CPSB {
+    text-align: center;
+    position: relative;
+    left: 0%;
+    top: 14rem;
+    font-size: 15px;
+    font-family: 'Courier New', serif;
+}
+
+::placeholder {
+   font-size: 12px;
+    font-family: 'Courier New', serif; 
+}
+
+h3 {
+    text-align: center;
+    display: inline;
+    font-size: 20px;
+    font-family: 'Courier New', serif;
+    color: black;
+    font-weight: 70;
+}
+
+iframe {
+    text-align: center;
+    position: relative;
+    top: 15rem;
+    left: 2%;
+    border: none;
+}
+
+#twodButton {
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    left: -3%;
+    top: 10rem;
+    border-style: solid;
+    color: black;
+    z-index: 1;
+}
+
+#SMButton {
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    left: 0%;
+    top: 10rem;
+    border-style: solid;
+    color: black;
+    z-index: 1;
+}
+
+#threeButton {
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    left: 3%;
+    top: 10rem;
+    border-style: solid;
+    color: black;
+    z-index: 1;
+}
+#charrButton {
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    left: -3%;
+    top: 10rem;
+    border-style: solid;
+    color: black;
+    z-index: 1;
+}
+#eniiButton {
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    left: 0%;
+    top: 10rem;
+    border-style: solid;
+    color: black;
+    z-index: 1;
+}
+
+#livButton {
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    left: -3%;
+    top: 10rem;
+    border-style: solid;
+    color: black;
+    z-index: 1;
+}
+
+#vfxButton {
+    position: relative;
+    padding: 20px 50px 20px 50px;
+    left: 3%;
+    top: 10rem;
+    border-style: solid;
+    color: black;
+    z-index: 1;
+}
+
+
+#twoddiv {
+    display: none;
+}
+
+#threeddiv {
+    display: none;
+}
+
+#smdiv {
+    display: none;
+}
+
+#charrdiv {
+    display: none;
+}
+
+#eniidiv {
+    display: none;
+}
+
+#livdiv {
+    display: none;
+}
+
+#vfxdiv {
+    display: none;
+}
+
+img {
+    z-index: -1;
+    position: relative;
+    top: 50px;
+}
