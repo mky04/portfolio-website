@@ -401,6 +401,7 @@ iframe {
     border-style: solid;
     color: black;
     z-index: 1;
+    margin: 0 0 0 0;
 }
 #charrButton {
     position: relative;
